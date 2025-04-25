@@ -2,4 +2,4 @@
 
 Uses the California Housing Prices dataset provided by Kaggle to predict housing prices.
 
-Streamlit site: 
+Streamlit URL: https://housing-pricing-data.streamlit.app/ 
